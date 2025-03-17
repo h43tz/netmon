@@ -1,0 +1,4 @@
+scapy>=2.4.5
+netifaces>=0.11.0
+mac-vendor-lookup>=0.1.11
+python-telegram-bot>=13.7
