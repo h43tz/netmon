@@ -31,7 +31,7 @@ NETMON es una herramienta avanzada de monitoreo de seguridad de red escrita en P
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/yourusername/netmon.git
+git clone https://github.com/h43tz/netmon.git
 cd netmon
 
 # Instalar dependencias
