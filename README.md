@@ -113,14 +113,4 @@ CONFIG = {
 }
 ```
 
-## Aviso legal
 
-Esta herramienta está destinada únicamente para el monitoreo y protección de redes propias o autorizadas. El uso en redes sin autorización puede violar leyes locales.
-
-## Licencia
-
-MIT
-
-## Contribuir
-
-Las contribuciones son bienvenidas! Por favor, crea un issue o envía un pull request.
