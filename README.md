@@ -7,7 +7,7 @@
                                       
 ```
 
-# NETMON - Monitor de Seguridad de Red
+# NETMON - Monitor de Red
 
 ## Descripción
 
